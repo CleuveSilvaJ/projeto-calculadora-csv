@@ -13,7 +13,7 @@ Este é um projeto simples de uma calculadora, criado para praticar os conceitos
 ## ⚙️ Como usar  
 
 1️⃣ Faça o clone deste repositório para a sua máquina local:  
-   git clone           https://github.com/CleuveSilvaJ/calculadora-simples.git
+   git clone           https://github.com/CleuveSilvaJ/projeto-calculadora-csv.git
 
 2️⃣ Navegue até o diretório do projeto:
    cd calculadora-simples
