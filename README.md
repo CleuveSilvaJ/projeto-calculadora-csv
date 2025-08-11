@@ -22,5 +22,3 @@ Este é um projeto simples de uma calculadora, criado para praticar os conceitos
 
 
 
-📜 #Licença
-📝 #Este projeto está sob a licença MIT. Para mais detalhes, veja o arquivo LICENSE.
