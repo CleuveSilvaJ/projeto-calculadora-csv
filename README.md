@@ -1,5 +1,5 @@
 # 🧮 projeto-calculadora-csv  
-📚 Projeto da faculdade **Cruzeiro do Sul Virtual** de uma calculadora simples em Python 🐍 para praticar Git 🗂️ e GitHub 🐙.  
+📚 Projeto da faculdade **Cruzeiro do Sul Virtual** de uma calculadora simples em Python 🐍 para praticar Git e GitHub.  
 
 # 🖩 Calculadora Simples  
 
@@ -11,8 +11,9 @@ Este é um projeto simples de uma calculadora, criado para praticar os conceitos
 🖩 A calculadora é um programa em Python que realiza as quatro operações básicas: ➕ soma, ➖ subtração, ✖️ multiplicação e ➗ divisão.  
 
 ## ⚙️ Como usar  
+
 1️⃣ Faça o clone deste repositório para a sua máquina local:  
-   git clone https://github.com/CleuveSilvaJ/calculadora-simples.git
+   git clone           https://github.com/CleuveSilvaJ/calculadora-simples.git
 
 2️⃣ Navegue até o diretório do projeto:
    cd calculadora-simples
