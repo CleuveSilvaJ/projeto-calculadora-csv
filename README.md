@@ -12,16 +12,15 @@ Este é um projeto simples de uma calculadora, criado para praticar os conceitos
 
 ## ⚙️ Como usar  
 1️⃣ Faça o clone deste repositório para a sua máquina local:  
-   ```bash
    git clone https://github.com/SEU-USUARIO/calculadora-simples.git
 
 2️⃣ Navegue até o diretório do projeto:
-cd calculadora-simples
+   cd calculadora-simples
 
 3️⃣ Execute o arquivo Python:
-python calculadora.py
+   python calculadora.py
 
 
 
-📜 Licença
-📝 Este projeto está sob a licença MIT. Para mais detalhes, veja o arquivo LICENSE.
+📜 #Licença
+📝 #Este projeto está sob a licença MIT. Para mais detalhes, veja o arquivo LICENSE.
